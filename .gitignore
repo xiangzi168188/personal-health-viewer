@@ -1,0 +1,11 @@
+.DS_Store
+.tmp/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.idea/
+.vscode/
+.claude/
+.codex/
